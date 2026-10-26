@@ -1,6 +1,6 @@
 # Deku Themes and Visual Identity
 
-Open desktop theme assets and visual integration for Deku Linux.
+Tracks theme assets, icons and desktop appearance integration planned for Deku Linux.
 
 ## Status
 
